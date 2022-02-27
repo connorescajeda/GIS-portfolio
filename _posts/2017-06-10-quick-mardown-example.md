@@ -1,12 +1,9 @@
 ---
-title: Quick markdown example
-date: 2017-06-10 00:00:00 Z
-categories:
-- markdown
-tags:
-- example
 layout: post
+title: Quick markdown example
 subtitle: This is a quick markdown example
+categories: markdown
+tags: [example]
 ---
 
 Paragraphs are separated by a blank line.

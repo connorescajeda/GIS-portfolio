@@ -1,11 +1,8 @@
 ---
-title: Plantuml example
-date: 2017-12-04 00:00:00 Z
-categories:
-- example
-tags:
-- plantuml
 layout: post
+title: Plantuml example
+categories: example
+tags: [plantuml]
 ---
 
 ## My First PlantUML

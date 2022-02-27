@@ -1,11 +1,8 @@
 ---
-title: Mermaid example
-date: 2017-12-08 00:00:00 Z
-categories:
-- example
-tags:
-- mermaid
 layout: post
+title: Mermaid example
+categories: example
+tags: [mermaid]
 ---
 
 ### 1. Pie chart

@@ -1,12 +1,9 @@
 ---
-title: Mathjax Test
-date: 2018-05-26 00:00:00 Z
-categories:
-- markdown
-tags:
-- test
 layout: post
+title: Mathjax Test
 subtitle: My first mathjax expression
+categories: markdown
+tags: [test]
 ---
 
 * A safe integer is an integer that

@@ -1,12 +1,9 @@
 ---
-title: Another test markdown
-date: 2016-01-01 00:00:00 Z
-categories:
-- markdown
-tags:
-- test
 layout: post
+title: Another test markdown
 subtitle: Each post also has a subtitle
+categories: markdown
+tags: [test]
 ---
 
 Put the math expression within <span>$</span>...\$:

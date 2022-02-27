@@ -1,13 +1,9 @@
 ---
-title: An exhibit of Markdown
-date: 2018-12-05 00:00:00 Z
-categories:
-- markdown
-tags:
-- example
-- markdown
 layout: post
+title: An exhibit of Markdown
 subtitle: Each post also has a subtitle
+categories: markdown
+tags: [example, markdown]
 ---
 
 This note demonstrates some of what [Markdown][1] is capable of doing.

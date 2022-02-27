@@ -1,12 +1,9 @@
 ---
-title: Table example
-date: 2017-12-15 00:00:00 Z
-categories:
-- example
-tags:
-- table
 layout: post
-subtitle: 
+title: Table example
+subtitle:
+categories: example
+tags: [table]
 ---
 
 ## Table example as below
