@@ -7,6 +7,9 @@ tags:
 - test
 banner:
   image: "/uploads/Baboquivari.jpg"
+  Key: 
+subtitle: subtitle siteleaf test!
+author: Disco Trays
 layout: post
 ---
 
