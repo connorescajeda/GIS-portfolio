@@ -39,6 +39,7 @@ defaults:
     values:
       layout: "post"
       banner:
+        image: "/assets/images/banners/MuleCreek.jpg"
         opacity: 0.618
         background: "#000"
         height: 100vh
