@@ -5,6 +5,8 @@ categories:
 - gis
 tags:
 - test
+banner:
+  image: "/uploads/Baboquivari.jpg"
 layout: post
 ---
 
