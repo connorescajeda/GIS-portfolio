@@ -8,6 +8,20 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    banner:
+      image: "/assets/images/banners/MuleCreek.jpg"
+      opacity: 0.618
+      background: "#000"
+      height: 100vh
+      min_height: 38vh
+      heading_style: 'font-size: 4.25em; font-weight: bold; text-decoration: underline'
+      subheading_style: 'color: gold'
 email: your-email@domain.com
 author: GitHub User
 copyright: Unpublished Work (cleft) 2017-{currentYear} {author}
@@ -31,18 +45,3 @@ plugins:
 - jekyll-sitemap
 - jekyll-paginate
 - jekyll-spaceship
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      banner:
-        image: "/assets/images/banners/MuleCreek.jpg"
-        opacity: 0.618
-        background: "#000"
-        height: 100vh
-        min_height: 38vh
-        heading_style: 'font-size: 4.25em; font-weight: bold; text-decoration: underline'
-        subheading_style: 'color: gold'
