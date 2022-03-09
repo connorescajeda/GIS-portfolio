@@ -13,6 +13,11 @@
 {%- include functions.html func='get_value' -%}
 {% assign subheading = return %}
 
+{%- include functions.html func='log' level='debug' msg='Get author value' -%}
+{% assign name = {{page['author']}} %}
+{%- include functions.html func='get_value' -%}
+{% assign author = {{page['author']}} %}
+
 {%- include functions.html func='get_banner' -%}
 
 {%- if has_banner -%}
@@ -113,8 +118,9 @@
         {%- if banner_html -%}
 
         {%- assign banner_html = 'views/' | append: banner_html -%}
-        {%- include {{ banner_html }} -%}
 
+        {%- include {{ banner_html }} -%}
+        <p id="author">{{page['author']}}</p>
         {%- else -%}
 
           <div class="page-banner-default">
@@ -124,6 +130,11 @@
             <h2 class="page-banner-subheading">
               {{ subheading | default: page.subtitle | escape }}
             </h2>
+            <!-- {%- if page.author -%} -->
+            <h3 class="page-banner-author">
+              {{ author | default: {{page['author']}} | escape }}
+            </h3>
+            <!-- {%- endif -%} -->
           </div>
 
         {%- endif -%}
