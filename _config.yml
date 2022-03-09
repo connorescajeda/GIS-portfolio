@@ -33,9 +33,9 @@ description: |-
     and Environmental Studies, focusing especially on questions of environmental justice.
     The entries here are authored by students and are based on work that they have done
     in their undergraduate studies at Hendrix. \n"
-baseurl: ''
-url: ''
-favicon: ''
+baseurl: 
+url: 
+favicon: 
 yat:
   date_format: "%b %d, %Y"
 markdown: kramdown
