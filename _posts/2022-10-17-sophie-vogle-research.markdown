@@ -4,6 +4,7 @@ date: 2022-10-17 18:59:00 Z
 categories:
 - Student Research
 author: Sophie Vogle
+subheading: Eurocentric Bias and Cultural Importance
 ---
 
 ## Thesis Summary
