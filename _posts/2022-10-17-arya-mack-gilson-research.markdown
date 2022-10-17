@@ -4,6 +4,8 @@ date: 2022-10-17 19:14:00 Z
 categories:
 - Student Research
 author: Arya Mack-Gilson
+subheading: Distribution of Traffic Pollution in Oppressed Communities in the State
+  of Arkansas
 ---
 
 ## Thesis Summary
