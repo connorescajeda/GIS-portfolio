@@ -1,6 +1,8 @@
 ---
 title: Sophie Vogle Research
 date: 2022-10-17 18:59:00 Z
+categories:
+- Student Research
 author: Sophie Vogle
 ---
 
